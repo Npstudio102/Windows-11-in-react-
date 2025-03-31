@@ -7,3 +7,4 @@ Windows 11 react no installing
 > Do Not Change README.md 
 ## Codes In Shell
 Npm run X11-repo
+Win11.blueedge.me/Images
