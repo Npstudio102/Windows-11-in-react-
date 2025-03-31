@@ -5,3 +5,5 @@ Windows 11 react no installing
 ## Features 
 > [!CAUTION]
 > Do Not Change README.md 
+## Codes In Shell
+Npm run X11-repo
